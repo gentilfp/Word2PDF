@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word2Pdf", "Word2Pdf\Word2Pdf.csproj", "{059A95F0-F0EA-4C30-8BB1-F503D8DE25FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{059A95F0-F0EA-4C30-8BB1-F503D8DE25FB}.Debug|x86.ActiveCfg = Debug|x86
+		{059A95F0-F0EA-4C30-8BB1-F503D8DE25FB}.Debug|x86.Build.0 = Debug|x86
+		{059A95F0-F0EA-4C30-8BB1-F503D8DE25FB}.Release|x86.ActiveCfg = Release|x86
+		{059A95F0-F0EA-4C30-8BB1-F503D8DE25FB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
